@@ -66,4 +66,6 @@ group :test do
   gem "selenium-webdriver"
 end
 gem 'sassc-rails'
+gem 'rails_12factor', group: :production
+
 
